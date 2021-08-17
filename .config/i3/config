@@ -284,7 +284,7 @@ bar {
 
 # background setting
 # exec --no-startup-id feh --bg-scale Downloads/ross-sokolovski-UAFXj9dRpwo-unsplash.jpg
-exec --no-startup-id feh --bg-fill Pictures/ross.png
+exec --no-startup-id feh --bg-fill ~/.config/arch_bg.jpg
 
 # autostart of applications
 exec --no-startup-id i3-msg 'workspace 9; exec google-chrome-stable --app=https://web.whatsapp.com'
